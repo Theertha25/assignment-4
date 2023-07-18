@@ -1,0 +1,78 @@
+.color{
+    background:darkorange;
+    padding: 10px;
+    width: 300px;
+    border-radius: 50px;
+}
+.box{
+   border: 5px solid tomato; 
+   background-color: darkgrey;
+   border-radius: 50px;
+   padding: 30px;
+   margin: 40px;
+   width: 100px;
+}
+.box1{
+    border: 5px dotted blueviolet;
+    background-color: darkgray;
+    border-radius: 50px;
+    padding: 30px;
+    margin: 40px;
+    width: 100px;
+}
+.box2{
+    border: 5px dashed darkgreen;
+    background-color: darkgrey;
+    border-radius: 50px;
+    padding: 30px;
+    margin: 40px;
+    width: 100px;
+}
+.box3{
+   border: 5px groove yellow ;
+   background-color: darkgrey;
+   border-radius: 50px;
+   padding:30px;
+   margin: 40px;
+   width: 100px;  
+}
+.box4{
+    border: 5px ridge orangered;
+    background-color:darkgray ;
+    border-radius: 50px;
+    padding:30px ;
+    margin: 40px;
+    width: 100px;
+}
+.box5{
+    border: 5px inset olivedrab;
+    background-color:darkgrey ;
+    border-radius: 50px;
+    padding: 30px;
+    margin: 40px;
+    width: 100px;
+}
+.box6{
+    border: 5px outset blueviolet;
+    background-color:darkgrey ;
+    border-radius: 50px;
+    padding: 30px;
+    margin: 40px;
+    width: 100px;
+}
+.box7{
+    border: 5px none teal;
+    background: darkgrey;
+    border-radius: 50px;
+    padding: 30px;
+    margin: 40px;
+    width: 100px;
+}
+.box8{
+    border: 5px double purple;
+    background-color: darkgray;
+    border-radius: 50px;
+    padding: 30px;
+    margin: 40px;
+    width: 100px;
+}
